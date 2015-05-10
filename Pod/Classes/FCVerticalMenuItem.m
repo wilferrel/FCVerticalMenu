@@ -40,7 +40,7 @@
 - (CGFloat)calculatedHeight
 {
     //TODO: calculate height with label and icon
-    return 100.0;
+    return 200.0;
 }
 
 - (CGFloat)calculatedWidth
